@@ -1,2 +1,3 @@
 # RetiCalc-2627-ITPSUniba--G42-
-Roberto Mangialardi
+Roberto Mangialardi   
+sistema operativo: Windows
